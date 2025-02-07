@@ -9,7 +9,6 @@ The grammar supports:
 - `README.md` : Explains how to compile and run the parser.
 
 ## Compilation Steps
-## I used ubuntu to run this program
 تشغيل ملفات ال yacc وال lex في الويندوز تتطلب ملفات وحزم إضافية لتشغيل المشروع على ويدوز إليك الخطوات التالية:
 1.	تنزيل وتثبيت GnuWin32 Flex:
 https://gnuwin32.sourceforge.net/packages/flex.htm
